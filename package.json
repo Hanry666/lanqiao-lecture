@@ -1,0 +1,17 @@
+{
+  "name": "lanqiao-lecture",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.12",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue3-pdf-app": "^1.0.3",
+    "xmind-embed-viewer": "^1.2.0"
+  }
+}
