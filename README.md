@@ -1,6 +1,6 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 蓝桥杯Web应用开发经验分享
 
-To start the slide show:
+启动ppt:
 
 - `npm install`
 - `npm run dev`
